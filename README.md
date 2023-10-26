@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LegendsiTe
-- 👀 I’m interested in Backend web developing
+- 👀 I’m interested in frontend web developing
 - 🌱 I’m currently learning how to be better
 - I’m looking to collaborate on short to long term projects
 - 📫 How to reach me Email me on Godswillbs@outlook.com 
